@@ -9,7 +9,7 @@ This project is part of the Springboard Data Engineering Career Track.
 
 In this project, we take data on car sales, repairs, and accidents to output a report of the number of accidents by car make and year. This output can be used to determine which cars are accident-prone and used-car buyers can use the output data to inform their car buying decisions.
 
-Hadoop MapReduce is twice:
+Hadoop MapReduce is used twice:
 1. Process input data listing all car sales, repairs and accidents into list of VIN, car make, and year of all cars that had accidents
 2. Process data from step 1 into count of accidents by VIN, car make, and year
 
